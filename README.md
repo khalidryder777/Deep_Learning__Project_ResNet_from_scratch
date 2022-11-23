@@ -1,0 +1,2 @@
+# Deep_Learning_Mini_Project_ResNet_from_scratch
+Deep Learning mini-project
