@@ -1,5 +1,6 @@
 # Deep_Learning_Mini_Project_ResNet_from_scratch
-Deep Learning mini-project
+
+Khalid Ansari (ka2612) || Zaid Patel (zp2090)
 
 4 Residual Layers: The implementation for ResNet 10 can be found in the file "ResNet10_4Residual_layers_from_scratch.ipynb"
 
