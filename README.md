@@ -1,6 +1,5 @@
 # Deep_Learning_Mini_Project_ResNet_from_scratch
 
-## Khalid Ansari (ka2612) || Zaid Patel (zp2090)
 
 ### In this project we have implemented two ResNet architectures: If you must pick only one, please select "4 Residual Layers"
 
